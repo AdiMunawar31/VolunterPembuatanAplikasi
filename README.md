@@ -7,3 +7,4 @@ Repository ini digunakan sebagai sayembara pencarian valounter untuk pembuatan a
 Berikut daftar Volunter yang diterima:
 
 * Adi Munawar, [adi-munawar.netlify.app](https://adi-munawar.netlify.app).
+* D2Y CODE, [Linkedin](https://www.linkedin.com/in/d2ycode/).
