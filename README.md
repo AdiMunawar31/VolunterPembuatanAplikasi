@@ -6,4 +6,4 @@ Repository ini digunakan sebagai sayembara pencarian valounter untuk pembuatan a
 
 Berikut daftar Volunter yang diterima:
 
-* Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Adi Munawar, [adi-munawar.netlify.app](https://adi-munawar.netlify.app).
